@@ -4,6 +4,7 @@
 #Compile Environment
 - Visual Studio 2015 with update 3 </br>
 - Windowr Driver Kit 7 or above</br>
+- MFC library
 
 #Runtime Environment
 - Windows 2000 to Windows 7 for x64 (also comptible with x86)
