@@ -1,4 +1,4 @@
-# ScreenCapAttack
+# ScreenCap
 - By using a Mirror Driver technique for making a kernel level screen capture.
 
 #Compile Environment
