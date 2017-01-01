@@ -6,7 +6,7 @@
 - Windowr Driver Kit 7 or above</br>
 
 #Runtime Environment
-- Windows2000 to Windows7 for x64 (also comptible with x86)
+- Windows 2000 to Windows 7 for x64 (also comptible with x86)
 
 #Description
 - ScreenCap is a MFC DLL and packed with a miniport driver(mirror driver) and related file into a resource, </br>
