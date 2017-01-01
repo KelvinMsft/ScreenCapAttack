@@ -14,6 +14,7 @@
   ScreenCap provided a exported function that can be able to make a kernel-level Screen Capture on Windows 2000 </br>
   to Windows 7 for x86/x64 platform, and which is using a mini-port driver technique, by attached to videoprt.sys.
   And the driver will map the memory which is pointer to self-created surface it will be updated by intercepting GDI rendering.
+  
 #Compile
  1. Build a Mini-port driver and user-mode driver by WDK, then we will get a <l><b>Mirror.dll</b> </l>/<l><b> Mirror.sys</b></l>
  2. Put them into bin-x64
