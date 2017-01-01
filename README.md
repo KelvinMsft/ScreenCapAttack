@@ -14,10 +14,10 @@
   to Windows 7 for x86/x64 platform, and which is using a mini-port driver technique, by attached to videoprt.sys.
 
 #Compile
- 1. Build a Mini-port driver and user-mode driver by WDK, then we will get a Mirror.dll / Mirror.sys
+ 1. Build a Mini-port driver and user-mode driver by WDK, then we will get a <l><b>Mirror.dll</b> </l>/<l><b> Mirror.sys</b></l>
  2. Put them into bin-x64
- 3. Compile a ScreenCap.dll, it will pack the files into resources.
- 4. Compile a Tester.exe, test a screen capture functions.
+ 3. Compile a <l><b> ScreenCap.dll </b></l>, it will pack the files into resources.
+ 4. Compile a <l><b>Tester.exe </b></l>, test a screen capture functions.
  
 #Demo Program: 
   - <b>Tester.exe</b> by pressing default command '2', then the driver will be loaded by default INF file <br/>
