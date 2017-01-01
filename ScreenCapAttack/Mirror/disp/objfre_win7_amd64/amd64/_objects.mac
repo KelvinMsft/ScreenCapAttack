@@ -1,0 +1,19 @@
+
+
+AMD64_OBJECTS=\
+ $(OBJ_PATH)\$O\debug.obj \
+ $(OBJ_PATH)\$O\enable.obj \
+ $(OBJ_PATH)\$O\screen.obj \
+
+
+_RES_FILE=$(OBJ_PATH)\$O\mirror.res
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.1
+OBJECT_ROOT=c:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=c:\users\kelvinchan\desktop\demo-dll-version\mirror\disp
+OBJ_PATH=c:\users\kelvinchan\desktop\demo-dll-version\mirror\disp
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

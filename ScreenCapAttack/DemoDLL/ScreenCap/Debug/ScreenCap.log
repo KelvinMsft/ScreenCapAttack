@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  ScreenCap.cpp
+c:\users\kelvinchan\documents\visual studio 2015\projects\screencap\screencap\screencap.cpp(49): error C3861: 'ReleaseRes': identifier not found
