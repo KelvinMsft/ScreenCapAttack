@@ -1,4 +1,7 @@
 # ScreenCap
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/249829480c0c4acfbd5cced6c480d0e3)](https://app.codacy.com/gh/Kelvinhack/ScreenCapAttack?utm_source=github.com&utm_medium=referral&utm_content=Kelvinhack/ScreenCapAttack&utm_campaign=Badge_Grade)
+
 - By using a Mirror Driver technique for making a kernel level screen capture.
 
 # Compile Environment
